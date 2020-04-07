@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361060462235",
+    "firebase_url": "https://bspu-ce566.firebaseio.com",
+    "project_id": "bspu-ce566",
+    "storage_bucket": "bspu-ce566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361060462235:android:a0955eb216f8a3ccc5203e",
+        "android_client_info": {
+          "package_name": "allaber.com.bspu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361060462235-i17hv8mrtqj4bgdn7mkj4nfvkc4egh6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allaber.com.bspu",
+            "certificate_hash": "4c5b4f7842d2298415806edceca5ec92ccf7234f"
+          }
+        },
+        {
+          "client_id": "361060462235-nvh29id9fidrfjt2lm53fn4s95a14oo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbDsZAQ5dHH5xVL-E7PDVBe1_HXEW2YxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361060462235-nvh29id9fidrfjt2lm53fn4s95a14oo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

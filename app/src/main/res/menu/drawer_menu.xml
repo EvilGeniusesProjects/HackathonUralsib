@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_group">
+        <item
+            android:id="@+id/menuAboutTheBSPU"
+            android:icon="@drawable/system_bspu"
+            android:title="Главная" />
+        <item
+            android:id="@+id/menuNews"
+            android:icon="@drawable/system_news"
+            android:title="@string/stringNews" />
+        <item
+            android:id="@+id/menuTimetable"
+            android:icon="@drawable/system_timetable"
+            android:title="@string/stringTimetable" />
+        <item
+            android:id="@+id/menuCalculator"
+            android:icon="@drawable/system_calculator"
+            android:title="Деканат" />
+
+        <item
+            android:id="@+id/menuSections"
+            android:icon="@drawable/system_sections"
+            android:title="@string/stringSections" />
+
+        <item
+            android:id="@+id/menuChat"
+            android:icon="@drawable/system_chat"
+            android:title="@string/stringChat" />
+
+        <item
+            android:id="@+id/menuNFC"
+            android:icon="@drawable/system_nfc"
+            android:title="@string/stringNFC" />
+        <item
+            android:id="@+id/menuSettings"
+            android:icon="@drawable/system_settings"
+            android:title="@string/stringSettings" />
+    </group>
+</menu>
