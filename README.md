@@ -7,7 +7,6 @@
 <img src="https://github.com/EvilGeniusesProjects/Resource/blob/master/HackathonUralsib/enrollee1.jpg" alt="drawing" width="250"/><br>
 <img src="https://github.com/EvilGeniusesProjects/Resource/blob/master/HackathonUralsib/enrollee2.jpg" alt="drawing" width="250"/><br>
 <img src="https://github.com/EvilGeniusesProjects/Resource/blob/master/HackathonUralsib/main2.jpg" alt="drawing" width="250"/><br>
-
 <img src="https://github.com/EvilGeniusesProjects/Resource/blob/master/HackathonUralsib/main2 drawer.jpg" alt="drawing" width="250"/><br>
 <img src="https://github.com/EvilGeniusesProjects/Resource/blob/master/HackathonUralsib/main2 news.jpg" alt="drawing" width="250"/><br>
 <img src="https://github.com/EvilGeniusesProjects/Resource/blob/master/HackathonUralsib/main2 timetable.jpg" alt="drawing" width="250"/><br>
